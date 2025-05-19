@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portfolio-elpidio-iviicfq5c-elpidio-awouyehs-projects.vercel.app/sitemap.xml
